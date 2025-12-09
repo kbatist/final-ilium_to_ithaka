@@ -1,0 +1,16 @@
+body {
+    background-color: #c5d6f0;
+;
+}
+h1{
+    color: #0f1b27;
+    font-family: 'Georgia', serif;
+    text-align: center;
+}
+p{
+    color: #0f1029;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px;
+}
