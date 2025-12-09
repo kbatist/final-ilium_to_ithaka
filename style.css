@@ -31,9 +31,13 @@ p{
     text-align: center;
     background-color: #3f4873;
     color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration-color: #d5ddf1;
 }
 .jumbotron{
     background-color: #d5ddf1;
     padding: 20px;
     border-radius: 5px;
+
 }
