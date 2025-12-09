@@ -32,3 +32,8 @@ p{
     background-color: #3f4873;
     color: white;
 }
+.jumbotron{
+    background-color: #d5ddf1;
+    padding: 20px;
+    border-radius: 5px;
+}
